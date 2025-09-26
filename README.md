@@ -54,21 +54,21 @@
   - Delivered **15 full-cycle robotic/mechatronic products** for clients & events.  
   - Consulted customers and presented tailored proposals.
     
-- **Mechatronics Engineer Intern – Magna Innovations FZ LLC (Dubai, UAE)** *(Aug – Oct 2023)*  
+- **Mechatronics Engineer Intern – Magna Innovations FZ LLC (Dubai, UAE)**  
   - Developed **6 tech products** including robotic arms and kinetic systems; oversaw a permanent installation from design to deployment.  
   - Conducted **rigorous product testing** (3x weekly) to detect and resolve flaws, ensuring reliable performance.  
 
-- **Project Intern & QA/QC Trainee – Base Control Tech FZC (Sharjah, UAE)** *(Aug – Sep 2022)*  
+- **Project Intern & QA/QC Trainee – Base Control Tech FZC (Sharjah, UAE)** 
   - Designed and implemented an **automated production tracker** with Unity3D + C# for improved Human-Machine Interaction (HMI).  
   - Gained hands-on experience in **quality analysis & control** for electronic/electrical panels.  
   - Interpreted project reports and Bills of Materials (BoMs) to ensure compliance.  
   - Tested panels using **TIA Portal + hardware testing tools**.  
 
-- **Project Intern – SparksLab Technology (Dubai, UAE)** *(Apr – Jun 2022)*  
+- **Project Intern – SparksLab Technology (Dubai, UAE)**
   - Assembled and integrated hardware for an **Augmented Reality (AR) Pillar** demonstration.  
   - Executed **project planning, management, and billing** for pilot AR demonstration unit, ensuring timely delivery.  
 
-- **Project Intern – MTAB Technology Center (Chennai, India)** *(Jul – Aug 2021)*  
+- **Project Intern – MTAB Technology Center (Chennai, India)** 
   - Simulated a **robotic arm welding workspace** in Workspace LT to demonstrate automated welding.  
   - Mapped manipulator paths using the teach pendant to optimize workspace efficiency.  
   
