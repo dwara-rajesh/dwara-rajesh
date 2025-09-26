@@ -1,6 +1,7 @@
 # 👋 Hello, I’m Dwarakesh Rajesh  
 
 🎓 **Graduated with a Master’s Student in Robotics & Autonomous Systems from Boston University**
+
 🤖 Passionate about building **intelligent machines/robots** that integrate perception, decision-making, and control to solve real-world problems. Focused on giving life to hardware.  
 
 ### 🔹 Programming & Scripting  
