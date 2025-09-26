@@ -6,12 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ### 🔹 Robotics & Development  
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)  
-![Unity3D](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
-![UR](https://img.shields.io/badge/Universal%20Robots-0076A8?style=for-the-badge&logo=universal-robots&logoColor=white)  
-![UFactory](https://img.shields.io/badge/UFactory-0078D7?style=for-the-badge&logo=robotframework&logoColor=white)  
-![API](https://img.shields.io/badge/API%20Integration-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)  
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)  ![Unity3D](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  ![UR](https://img.shields.io/badge/Universal%20Robots-0076A8?style=for-the-badge&logo=universal-robots&logoColor=white)  ![UFactory](https://img.shields.io/badge/UFactory-0078D7?style=for-the-badge&logo=robotframework&logoColor=white)  ![API](https://img.shields.io/badge/API%20Integration-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)  
 
 ### 🔹 CAD & Design  
 ![Fusion360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)  
