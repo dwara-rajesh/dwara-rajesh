@@ -74,23 +74,12 @@
   
 ---
 
-## 🛠️ Technical Skills  
-
-- **Design**: AutoCAD, Fusion360, SOLIDWORKS, Embedded Systems  
-- **Programming**: Python, C#, C++, C, MATLAB, Shell/Bash, Git  
-- **Robotics & Development**: ROS/ROS2, Unity3D, UR, UFactory, API Integration  
-- **Simulation**: Webots, CoppeliaSim, Simulink, MuJoCo  
-- **Networking**: MQTT, Wireshark, SocketTest  
-
----
-
 ## 📫 Let’s Connect  
 
-- 📍 Boston, MA  
+- 📍 Boston, MA
+- +1 (857) 919-3852
 - 💼 [LinkedIn](https://linkedin.com/in/dwarakesh-rajesh)  
 - 💻 [GitHub](https://github.com/dwara-rajesh)  
-- 📧 dwara.rajesh@gmail.com  
+- 📧 dwara.rajesh@gmail.com/dwara@bu.edu  
 
 ---
-
-> 💡 To make this your GitHub profile portfolio, create a repository named **`dwara-rajesh/dwara-rajesh`** and add this file as `README.md`. GitHub will automatically display it on your profile.
