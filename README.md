@@ -2,10 +2,6 @@
 
 🎓 **Graduated with a Master’s Student in Robotics & Autonomous Systems from Boston University**
 🤖 Passionate about building **intelligent machines/robots** that integrate perception, decision-making, and control to solve real-world problems. Focused on giving life to hardware.  
-💡 Skilled in **robotics, mechatronics, simulation, and control systems**, with experience across academia, research, and industry.  
-
-## 🛠️ Technical Skills  
-
 ### 🔹 Programming & Scripting  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
