@@ -21,23 +21,21 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[SynesthesiARP – Real-time Image Sonification](#)**  
+🔹 **[SynesthesiARP – Real-time Image Sonification](https://github.com/dwara-rajesh/SynesthesiARP)**  
 - Built a minimal Linux kernel + user-space with Buildroot and WSL2 for optimized power/performance.  
 - Achieved ~86 FPS audio + 20 FPS video performance benchmarks.  
 
-🔹 **[Thanos – Stack Balancing Robot](#)**  
+🔹 **[Thanos – Stack Balancing Robot](https://github.com/dwara-rajesh/Thanos-Stack-Balancing-Robot)**  
 - Unity3D simulation of robot balancing stacked boxes under wind disturbances.  
 - Implemented hybrid control: **PD + CLF-QP**, with Lyapunov stability analysis.  
 
-🔹 **[Sequential Affordance-Based Robotic Arm Manipulation](#)**  
+🔹 **[Sequential Affordance-Based Robotic Arm Manipulation](https://github.com/dwara-rajesh/Sequential-Affordance-Based-Robotic-Arm-Manipulation-Using-Object-Detection-and-ChatGPT)**  
 - Webots simulation using **YOLOv4** + **ChatGPT** for affordance-based task planning.  
 - Improved execution success rate from **5% → 85%** using modular feedback pipeline.  
 
-🔹 **[S.A.V.E – Semi-Autonomous Vehicle Execution](#)**  
+🔹 **[S.A.V.E – Semi-Autonomous Vehicle Execution](https://github.com/dwara-rajesh/S.A.V.E-Semi-Autonomous-Vehicle-Execution-System)**  
 - Designed modular mapping/marking robot with **OpenCV, SciPy, ROS2**.  
-- Implemented **DFS & Eulerian path planning** with CoppeliaSim simulation.  
-
-*(Replace `#` with links to your repositories once uploaded.)*  
+- Implemented **DFS & Eulerian path planning** with CoppeliaSim simulation.
 
 ---
 
@@ -52,11 +50,28 @@
   - Built multi-sensor UAV telemetry logger with ROS2.  
   - Designed real-time spatial sound localization system.  
 
-- **Junior Mechatronics Engineer – Leap Interactive**  
+- **Junior Mechatronics Engineer – Leap Interactive**
   - Delivered **15 full-cycle robotic/mechatronic products** for clients & events.  
-  - Consulted customers and presented tailored proposals.  
-  - Managed a 10-person team on tech trends and inventory.  
+  - Consulted customers and presented tailored proposals.
+    
+- **Mechatronics Engineer Intern – Magna Innovations FZ LLC (Dubai, UAE)** *(Aug – Oct 2023)*  
+  - Developed **6 tech products** including robotic arms and kinetic systems; oversaw a permanent installation from design to deployment.  
+  - Conducted **rigorous product testing** (3x weekly) to detect and resolve flaws, ensuring reliable performance.  
 
+- **Project Intern & QA/QC Trainee – Base Control Tech FZC (Sharjah, UAE)** *(Aug – Sep 2022)*  
+  - Designed and implemented an **automated production tracker** with Unity3D + C# for improved Human-Machine Interaction (HMI).  
+  - Gained hands-on experience in **quality analysis & control** for electronic/electrical panels.  
+  - Interpreted project reports and Bills of Materials (BoMs) to ensure compliance.  
+  - Tested panels using **TIA Portal + hardware testing tools**.  
+
+- **Project Intern – SparksLab Technology (Dubai, UAE)** *(Apr – Jun 2022)*  
+  - Assembled and integrated hardware for an **Augmented Reality (AR) Pillar** demonstration.  
+  - Executed **project planning, management, and billing** for pilot AR demonstration unit, ensuring timely delivery.  
+
+- **Project Intern – MTAB Technology Center (Chennai, India)** *(Jul – Aug 2021)*  
+  - Simulated a **robotic arm welding workspace** in Workspace LT to demonstrate automated welding.  
+  - Mapped manipulator paths using the teach pendant to optimize workspace efficiency.  
+  
 ---
 
 ## 🛠️ Technical Skills  
