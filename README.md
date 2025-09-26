@@ -9,23 +9,14 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)  ![Unity3D](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  ![UR](https://img.shields.io/badge/Universal%20Robots-0076A8?style=for-the-badge&logo=universal-robots&logoColor=white)  ![UFactory](https://img.shields.io/badge/UFactory-0078D7?style=for-the-badge&logo=robotframework&logoColor=white)  ![API](https://img.shields.io/badge/API%20Integration-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)  
 
 ### 🔹 CAD & Design  
-![Fusion360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)  
-![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)  
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00629B?style=for-the-badge&logo=arduino&logoColor=white)  
+![Fusion360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)  ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)  ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00629B?style=for-the-badge&logo=arduino&logoColor=white)  
 
 ### 🔹 Simulation & Control  
-![Webots](https://img.shields.io/badge/Webots-EB1923?style=for-the-badge&logo=robotframework&logoColor=white)  
-![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-0097A7?style=for-the-badge&logo=simulink&logoColor=white)  
-![MuJoCo](https://img.shields.io/badge/MuJoCo-1E88E5?style=for-the-badge&logo=physics&logoColor=white)  
-![Simulink](https://img.shields.io/badge/Simulink-FFB300?style=for-the-badge&logo=mathworks&logoColor=white)  
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-0097A7?style=for-the-badge&logo=simulink&logoColor=white)  ![Webots](https://img.shields.io/badge/Webots-EB1923?style=for-the-badge&logo=robotframework&logoColor=white)  ![MuJoCo](https://img.shields.io/badge/MuJoCo-1E88E5?style=for-the-badge&logo=physics&logoColor=white)  ![Simulink](https://img.shields.io/badge/Simulink-FFB300?style=for-the-badge&logo=mathworks&logoColor=white)  
 
 ### 🔹 Networking & Protocols  
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![SocketTest](https://img.shields.io/badge/SocketTest-005571?style=for-the-badge&logo=protocol&logoColor=white)  
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  ![SocketTest](https://img.shields.io/badge/SocketTest-005571?style=for-the-badge&logo=protocol&logoColor=white)  
 
----
 ---
 
 ## 🚀 Featured Projects  
