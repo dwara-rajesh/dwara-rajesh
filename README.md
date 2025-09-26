@@ -41,7 +41,8 @@
 
 ## 💼 Professional Experience  
 
-- **Automation Intern – Boston University EPIC**  
+- **Automation Intern – Boston University EPIC**
+  - Created a Python-based circuit builder application.
   - Automated CAD/CAM workflows with Fusion 360 API.  
   - Debugged MQTT-based MES and redesigned for reliability.  
   - Performed bottom-up integration testing for scalability.  
