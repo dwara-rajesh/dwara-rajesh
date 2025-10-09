@@ -82,7 +82,7 @@
 - 📍 Boston, MA
 - +1 (857) 919-3852
 - 💼 [LinkedIn](https://linkedin.com/in/dwarakesh-rajesh)  
-- 💻 [GitHub Repositories]([https://github.com/dwara-rajesh](https://github.com/dwara-rajesh?tab=repositories))  
+- 💻 [GitHub Repositories]([https://github.com/dwara-rajesh](https://github.com/dwara-rajesh?tab=repositories)  
 - 📧 dwara.rajesh@gmail.com/dwara@bu.edu  
 
 ---
