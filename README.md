@@ -43,13 +43,13 @@
 
 ## 💼 Professional Experience  
 
-- **Automation Intern – Boston University EPIC**
+- **[Automation Intern – Boston University EPIC](https://github.com/dwara-rajesh/Custom3DPrintedCircuits)**
   - Created a Python-based circuit builder application.
   - Automated CAD/CAM workflows with Fusion 360 API.  
   - Debugged MQTT-based MES and redesigned for reliability.  
   - Performed bottom-up integration testing for scalability.  
 
-- **Research Assistant – Boston University Robotics Lab**  
+- **[Research Assistant – Boston University Robotics Lab](https://github.com/dwara-rajesh/UAV_Path_Planning_Based_on_Noise)**  
   - Built multi-sensor UAV telemetry logger with ROS2.  
   - Designed real-time spatial sound localization system.  
 
