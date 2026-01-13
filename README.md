@@ -32,7 +32,7 @@
 - Implemented hybrid control: **PD + CLF-QP**, with Lyapunov stability analysis.  
 
 🔹 **[Sequential Affordance-Based Robotic Arm Manipulation](https://github.com/dwara-rajesh/Sequential-Affordance-Based-Robotic-Arm-Manipulation-Using-Object-Detection-and-ChatGPT)**  
-- Webots simulation using **YOLOv4** + **ChatGPT** for affordance-based task planning.  
+- Webots simulation using **YOLOv4** + **Open AI API** for affordance-based task planning.  
 - Improved execution success rate from **5% → 85%** using modular feedback pipeline.  
 
 🔹 **[S.A.V.E – Semi-Autonomous Vehicle Execution](https://github.com/dwara-rajesh/S.A.V.E-Semi-Autonomous-Vehicle-Execution-System)**  
