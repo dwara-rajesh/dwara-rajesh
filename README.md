@@ -31,13 +31,23 @@
 - Unity3D simulation of robot balancing stacked boxes under wind disturbances.  
 - Implemented hybrid control: **PD + CLF-QP**, with Lyapunov stability analysis.  
 
-🔹 **[Sequential Affordance-Based Robotic Arm Manipulation](https://github.com/dwara-rajesh/Sequential-Affordance-Based-Robotic-Arm-Manipulation-Using-Object-Detection-and-ChatGPT)**  
+🔹 **[Sequential Affordance-Based Robotic Arm Manipulation](https://github.com/dwara-rajesh/Sequential-Affordance-Based-Robotic-Arm-Manipulation-Using-Object-Detection-and-OpenAI-API)**  
 - Webots simulation using **YOLOv4** + **Open AI API** for affordance-based task planning.  
 - Improved execution success rate from **5% → 85%** using modular feedback pipeline.  
 
 🔹 **[S.A.V.E – Semi-Autonomous Vehicle Execution](https://github.com/dwara-rajesh/S.A.V.E-Semi-Autonomous-Vehicle-Execution-System)**  
 - Designed modular mapping/marking robot with **OpenCV, SciPy, ROS2**.  
 - Implemented **DFS & Eulerian path planning** with CoppeliaSim simulation.
+
+🔹 **Smart HVAC - Occupancy-based temperature control using CO2 sensors**  
+- Determined **metabolic heat** using CO2 sensors and hence footfall.
+- Modelled HVAC control system using **Zone Temperature Dynamics** and added metabolic heat as a disturbance.
+- Integrated PI controller with CO2-based feedback to enhance robustness against occupancy-related disturbances.
+
+🔹 **OctoBot - Terrain Adaptive Soft Robot**  
+- Analyzed pressure-bending angle relationships in **MATLAB** by conducting **Constant Curvature Modelling**
+- Simulated a pneumatic actuation system using **FluidSimP**
+- Designed a control system to automate locomotion of soft robot using **Python** to control an electropneumatic system; awarded "Best locomotion".
 
 ---
 
@@ -65,7 +75,7 @@
   - Designed and implemented an **automated production tracker** with Unity3D + C# for improved Human-Machine Interaction (HMI).  
   - Gained hands-on experience in **quality analysis & control** for electronic/electrical panels.  
   - Interpreted project reports and Bills of Materials (BoMs) to ensure compliance.  
-  - Tested panels using **TIA Portal + hardware testing tools**.  
+  - Tested panels using **TIA Portal + hardware testing tools**; verified ladder logic and connections.   
 
 - **Project Intern – SparksLab Technology (Dubai, UAE)**
   - Assembled and integrated hardware for an **Augmented Reality (AR) Pillar** demonstration.  
