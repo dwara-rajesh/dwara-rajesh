@@ -44,7 +44,7 @@
 - Modelled HVAC control system using **Zone Temperature Dynamics** and added metabolic heat as a disturbance.
 - Integrated PI controller with CO2-based feedback to enhance robustness against occupancy-related disturbances.
 
-🔹 **OctoBot - Terrain Adaptive Soft Robot**  
+🔹 **[OctoBot - Terrain Adaptive Soft Robot](https://github.com/dwara-rajesh/OctoBot-Adaptive-Tortoise-Inspired-Soft-Robot)**  
 - Analyzed pressure-bending angle relationships in **MATLAB** by conducting **Constant Curvature Modelling**
 - Simulated a pneumatic actuation system using **FluidSimP**
 - Designed a control system to automate locomotion of soft robot using **Python** to control an electropneumatic system; awarded "Best locomotion".
